@@ -1,7 +1,7 @@
 # Web Development Internship Opportunity
 🔭 I’m currently interning with <b>Slash Mark</b>! Interested? <a href="https://slashmark.cloud/">Learn more</a>
 
-<h1>Project: Product Landing Page</h1>
+<h2>Project: Product Landing Page</h2>
 In this internship project, you'll delve into building a captivating product landing page. You'll master the art of organizing components within columns, performing basic image editing tasks, and utilizing design templates effectively.
 
 <h3 align="left">Skills You'll Acquire:</h3>
