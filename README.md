@@ -1,10 +1,10 @@
-# Web Development Internship Opportunity
-🔭 I’m currently interning with <b>Slash Mark</b>! Interested? <a href="https://slashmark.cloud/">Learn more</a>
+# 🌟 Web Development Internship Opportunity
+🚀 I’m currently interning with <b>Slash Mark</b>! Interested? <a href="https://slashmark.cloud/">Learn more</a>
 
-<h2>Project: Product Landing Page</h2>
+<h2>🎯 Project: Product Landing Page</h2>
 In this internship project, you'll delve into building a captivating product landing page. You'll master the art of organizing components within columns, performing basic image editing tasks, and utilizing design templates effectively.
 
-<h3 align="left">Skills You'll Acquire:</h3>
+<h3 align="left">🛠️ Skills You'll Acquire:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
 **Click Here:** https://syampk1078.github.io/ProductLandingPage/
