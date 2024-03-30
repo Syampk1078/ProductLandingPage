@@ -11,4 +11,4 @@ In this internship project, you'll delve into building a captivating product lan
 
 ![Screenshot 2024-03-30 121248](https://github.com/Syampk1078/ProductLandingPage/assets/119304851/562a5329-0ef7-4cfa-82a2-c1bd4685a0d1)
 
-<p>Ready to embark on this journey? Dive in and enhance your web development skills!</p>
+<p>🎯 Ready to embark on this journey? Dive in and enhance your web development skills!</p>
