@@ -9,7 +9,7 @@ In this internship project, you'll delve into building a captivating product lan
 
 **Project Demo:**
 
-<a href="https://syampk1078.github.io/Portfolio/"><img width="40" height="50" src="https://github.com/Syampk1078/Portfolio/assets/119304851/de3c33ec-4fcc-4220-b144-85961d0fd857"></a>
+<a href="https://syampk1078.github.io/ProductLandingPage/"><img width="40" height="50" src="https://github.com/Syampk1078/Portfolio/assets/119304851/de3c33ec-4fcc-4220-b144-85961d0fd857"></a>
 
 ![Screenshot 2024-03-30 121248](https://github.com/Syampk1078/ProductLandingPage/assets/119304851/562a5329-0ef7-4cfa-82a2-c1bd4685a0d1)
 
